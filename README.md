@@ -85,6 +85,6 @@ The schedule will be refined as the project requirements, team organization, tas
 - [x] Analyze the provided example Gantt chart.
 - [ ] Finalize the initial Smart Fridge Gantt chart.
 - [ ] Confirm task responsibilities and dependencies.
-- [ ] Commit and push the initial project files to Git.
+- [x] Commit and push the initial project files to Git.
 
 *This README will be updated as the project progresses.*

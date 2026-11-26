@@ -1,6 +1,6 @@
 # Smart Fridge Project
 
-## 1. Project Overview
+## 1. Project
 
 This repository contains the initial planning work for the Smart Fridge project as part of the Epitech Discover IT program.
 

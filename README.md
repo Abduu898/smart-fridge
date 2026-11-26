@@ -4,7 +4,7 @@
 
 **Team:** Abderrahim Bahraoui · Abdul Hadi · Zaid Hsaine
 
-This folder contains revised, editable copies of the eight existing planning deliverables. A PDF copy of the Project Framing Document is included alongside its DOCX. The source masters have not been overwritten; the revised set is for team review before replacing any repository files.
+This folder contains revised, editable versions of the eight planning deliverables. A PDF copy of the Project Framing Document is included alongside its DOCX. The previous source versions were removed to avoid keeping duplicate copies; these revised files remain review copies for the team.
 
 The project is a pre-development feasibility assessment. The customer research is proposed, not reported as completed. Cost and schedule figures remain planning estimates. Product-development phases after the GO/PIVOT/NO-GO gate remain conditional.
 

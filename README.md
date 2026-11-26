@@ -1,90 +1,42 @@
-# Smart Fridge Project
+# Smart Fridge project portfolio
 
-## 1. Project
+**Review copy — 26 November 2026**
 
-This repository contains the initial planning work for the Smart Fridge project as part of the Epitech Discover IT program.
+**Team:** Abderrahim Bahraoui · Abdul Hadi · Zaid Hsaine
 
-The objective of this first stage is to analyze an existing project schedule, identify planning issues, and apply the lessons learned to the Smart Fridge project.
+This folder contains revised, editable copies of the eight existing planning deliverables. A PDF copy of the Project Framing Document is included alongside its DOCX. The source masters have not been overwritten; the revised set is for team review before replacing any repository files.
 
-## 2. Analysis of the Provided Gantt Chart
+The project is a pre-development feasibility assessment. The customer research is proposed, not reported as completed. Cost and schedule figures remain planning estimates. Product-development phases after the GO/PIVOT/NO-GO gate remain conditional.
 
-### 2.1. Indicators of Planning Problems
+## Deliverables
 
-Several indicators suggest that the original project did not follow its initial plan:
+| Deliverable | File | Version / status |
+|---|---|---|
+| Project Framing Document | `docs/Smart_Fridge_Project_Framing_Document_v1.2.docx` | v1.2 — revised review copy |
+| Project Framing Document (PDF) | `docs/Smart_Fridge_Project_Framing_Document_v1.2.pdf` | PDF review copy |
+| Research Plan | `docs/Smart_Fridge_Research_Plan_v1.2.docx` | v1.2 — proposed research only |
+| High-Level Roadmap | `docs/Smart_Fridge_High_Level_Roadmap_v1.1.docx` | v1.1 — six conditional lifecycle phases |
+| Project Management Plan | `docs/Smart_Fridge_Project_Management_Plan_v1.2.docx` | v1.2 — controls and outstanding work |
+| Gantt Chart | `docs/planning/Smart_Fridge_Gantt_v1.1.xlsx` | v1.1 — editable planning baseline |
+| Human Resources and Skills | `docs/Smart_Fridge_Human_Resources_and_Skills_v1.1.docx` | v1.1 — task owners remain unassigned |
+| Material Resources | `docs/Smart_Fridge_Material_Resources_v3.1.xlsx` | v3.1 — editable register |
+| Budget Proposal | `docs/Smart_Fridge_Budget_Proposal_v1.1.xlsx` | v1.1 — indicative scenario estimates |
 
-- The project schedule indicates a delayed start and a delayed finish.
-- Several tasks remain incomplete, including UX/UI design (40%), user acceptance (50%), coding (80%), and testing (60%).
-- Actual durations significantly exceed estimated durations for some tasks.
-- Actual project costs are higher than estimated costs.
+## Still outstanding
 
-For example, UX/UI design was estimated to take 5 days but took 11 days, with costs increasing from 6,000 to 13,200.
+- Risk Register.
+- Team communication/update.
+- Board-scenario budget communication.
+- Final presentation, which remains a separate team deliverable.
 
-### 2.2. Tasks Most Affected by Delays
+These items are not marked complete and their contents are not invented here.
 
-The following tasks show significant differences between estimated and actual durations:
+## Decisions to confirm before submission
 
-| Task            | Estimated Duration | Actual Duration |
-| --------------- | -----------------: | --------------: |
-| UX/UI Design    |             5 days |         11 days |
-| User Testing    |             5 days |         14 days |
-| User Acceptance |             5 days |         12 days |
-| Architecture    |             3 days |         12 days |
+- Reconcile the six lifecycle phases in the Roadmap/Gantt with the five cost stages in the Budget, especially the uncosted Month 14 implementation and review phase.
+- Confirm whether the budget is a coursework scenario or an actual request. No funding approval is recorded.
+- Set the calendar/date basis for the 14-month timeline and approximately 37 working days in Months 1–2.
+- Assign each project task to a team member and confirm any skills or responsibilities the team wants stated.
+- Check the Research Plan’s starting sources and required scope against the assignment brief; record source access dates when the team conducts research.
 
-These differences suggest that the initial estimates were too optimistic or that unexpected difficulties occurred. The chart does not specify the exact causes.
-
-### 2.3. Impact on Other Tasks
-
-Delays in one task can affect subsequent tasks when they depend on its completion.
-
-The example Gantt chart does not clearly identify task dependencies because the predecessor column is empty. Therefore, the exact impact of each delay cannot be determined from the chart alone.
-
-However, unclear sequencing and missing dependencies make it difficult to anticipate and manage schedule delays.
-
-### 2.4. Lessons for Future Project Planning
-
-To reduce the risk of similar problems in the Smart Fridge project, the following practices should be considered:
-
-- Estimate task durations realistically.
-- Identify dependencies between tasks.
-- Define responsibilities for each task.
-- Include contingency time for unexpected difficulties.
-- Monitor progress regularly and update the schedule.
-- Identify risks early and review them throughout the project.
-
-### 2.5. Consequences of Poor Planning
-
-Poor planning can lead to:
-
-- Delayed project delivery.
-- Increased costs and budget overruns.
-- Incomplete tasks and reduced time for testing.
-- Additional pressure on team members.
-- Difficulties coordinating tasks and resources.
-
-For example, architecture was estimated at 3,600 in cost but reached 14,400, while its duration increased from 3 days to 12 days.
-
-### 2.6. Overall Assessment
-
-The example Gantt chart highlights problems with scheduling, cost estimation, task completion, and project monitoring.
-
-The main lesson is that a project schedule should be realistic, clearly structured, and regularly updated. Task dependencies, responsibilities, risks, and progress should be tracked to help keep the project under control.
-
-## 3. Smart Fridge Planning
-
-The initial Smart Fridge Gantt chart is being prepared in `gantt.xlsx`.
-
-It is structured around two main phases:
-
-1. **Project Preparation and Framing**
-2. **Project Construction and Delivery**
-
-The schedule will be refined as the project requirements, team organization, task dependencies, and deadlines become clearer.
-
-## 4. Current Status
-
-- [x] Analyze the provided example Gantt chart.
-- [ ] Finalize the initial Smart Fridge Gantt chart.
-- [ ] Confirm task responsibilities and dependencies.
-- [x] Commit and push the initial project files to Git.
-
-*This README will be updated as the project progresses.*
+The `QA_Report.md` file is stored beside this folder in the parent review package and is not included in this repository.
